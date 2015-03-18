@@ -14,6 +14,8 @@
 	<classpathentry exported="true" kind="var" path="GS_HOME/lib/required/spring-beans-4.1.1.RELEASE.jar"/>
 	<classpathentry exported="true" kind="var" path="GS_HOME/lib/required/spring-aspects-4.1.1.RELEASE.jar"/>
 	<classpathentry exported="true" kind="var" path="GS_HOME/lib/optional/spring/spring-jms-4.1.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="var" path="GS_HOME/lib/optional/jms/jms.jar"/>
+	<classpathentry exported="true" kind="var" path="GS_HOME/lib/optional/jms/gs-jms.jar"/>
 	<classpathentry exported="true" kind="var" path="GS_HOME/lib/required/gs-runtime.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>
